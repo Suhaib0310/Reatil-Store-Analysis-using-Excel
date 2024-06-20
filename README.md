@@ -26,6 +26,8 @@ which helps in understanding which stores are under or over-performing against t
 2. **Month-by-Month Analysis:** Offers a detailed month-by-month breakdown of total 
 revenue and targets, highlighting variances. This can be important for financial planning and 
 performance management.
+![Dashboard 2](https://github.com/Suhaib0310/excel_analysis_of_a_store/assets/126916856/638e13a6-e1bf-443e-a798-1fdabad3c4b8)
+
 
 
 
@@ -38,3 +40,5 @@ weekdays versus weekends, which can help in making staffing and operational deci
 
 4. **Monthly Revenue vs Target:** Tracks monthly performance against goals, which is 
 fundamental for short-term financial planning and adjustments.
+![Dashboard 3](https://github.com/Suhaib0310/excel_analysis_of_a_store/assets/126916856/4c630934-301a-4f1b-bc1f-c747e8f294db)
+
